@@ -1,7 +1,11 @@
 package prjava43sanchezr24; 
 import java.awt.*;        // using AWT containers and components 
 import java.awt.event.*; 
+
 import java.sql.*;
+
+import java.text.*;
+
 import java.io.*;// using AWT events and listener interfaces 
  
 // An AWT GUI program inherits the top-level container java.awt.Frame 
