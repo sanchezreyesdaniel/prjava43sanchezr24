@@ -1,6 +1,7 @@
 package prjava43sanchezr24; 
 import java.awt.*;        // using AWT containers and components 
-import java.awt.event.*;  // using AWT events and listener interfaces 
+import java.awt.event.*; 
+import java.io.*;// using AWT events and listener interfaces 
  
 // An AWT GUI program inherits the top-level container java.awt.Frame 
 public class Prjava43sanchezR24 extends Frame 
